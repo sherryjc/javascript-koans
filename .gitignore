@@ -1,1 +1,5 @@
 .DS_Store
+
+# WebStorm debugger files
+.idea/
+
